@@ -1,3 +1,4 @@
+//Sample Project
 var path = require('path');
 var fs = require('fs');
 const sharp = require('sharp');
